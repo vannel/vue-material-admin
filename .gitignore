@@ -19,3 +19,6 @@ release
 *.sln
 
 package-lock.json
+dist/
+*-local*
+*.local*
